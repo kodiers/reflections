@@ -5,6 +5,8 @@ Itâ€™s create .git directory with git config files. I need to do it, because itâ
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+Staging area is snapshot of changed files from working directory, that will be committed. It offer to exclude some file from commit.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
